@@ -239,7 +239,7 @@ export default function Page() {
       "I believe in you, don't disappoint me! 💔",
       "My heart says yes, what about yours? ❤️",
       "Don't leave me hanging! 😬",
-      "Plsss? :( You're breaking my heart 💔",
+      "Pilizzzz babu? :( You're breaking my heart 💔",
     ];
 
     return phrases[Math.min(noCount, phrases.length - 1)];
