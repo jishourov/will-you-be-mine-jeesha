@@ -219,7 +219,7 @@ export default function Page() {
       "Really sure?",
       "Think again!",
       "Last chance!",
-      "Surely not?",
+      "Babu Pleaseeeeee 😭😭",
       "JEESHAAAAAAAA NAAAAAAAA!!!",
       "You might regret this!",
       "Give it another thought!",
@@ -295,7 +295,7 @@ export default function Page() {
   useEffect(() => {
     if (noCount == 25) {
       Swal.fire({
-        title: "My love for you is endless, like the stars in the sky—shining for you every night, even if you don’t always notice. 🌟 I’ll wait patiently, proving every day that you’re my everything. ❤️ Please press ‘Yes’ and let’s make this a forever story. 🥰✨<br/>'True love never gives up; it grows stronger with time.'",
+        title: "My love for you is endless, like the stars in the sky shining for you every night, even if you don’t always notice. 🌟 I’ll wait patiently, proving every day that you’re my everything.❤️ Please press ‘Yes’ and let’s make this a forever story.😞✨<br/>'True love never gives up; it grows stronger with time.'",
         width: 850,
         padding: "2em",
         color: "#716add",
@@ -328,8 +328,8 @@ export default function Page() {
               src={YesGifs[currentGifIndex]}
               alt="Yes Response"
             />
-            <div className="text-4xl md:text-6xl font-bold my-2" style={{ fontFamily: "Charm, serif", fontWeight: "700", fontStyle: "normal" }}>I Love You !!!</div>
-            <div  className="text-4xl md:text-4xl font-bold my-1" style={{ fontFamily: "Beau Rivage, serif", fontWeight: "500", fontStyle: "normal" }}> You’re the love of my life. </div>
+            <div className="text-4xl md:text-6xl font-bold my-2" style={{ fontFamily: "Charm, serif", fontWeight: "700", fontStyle: "normal" }}>I Love You Jeesha 😚!!!</div>
+            <div  className="text-4xl md:text-4xl font-bold my-1" style={{ fontFamily: "Beau Rivage, serif", fontWeight: "500", fontStyle: "normal" }}> You’re the love of my life Babu 🎀. </div>
             <WordMareque />
           </>
         ) : (
